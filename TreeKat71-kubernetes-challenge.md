@@ -12,6 +12,11 @@
 * Muller Hsu
 * [Github](https://github.com/TreeKat71)
 
-## Misc 
-* https://159.89.244.41/fastapi/docs
-* https://159.89.244.41/argocd
+## Misc  
+| Resources|  URL  |
+| :----:   | :-----| 
+| fastapi  | https://159.89.244.41/fastapi/docs |
+| ArgoCD   | https://159.89.244.41/argocd       |
+| Harbor   | https://registry.k8s.cloud/        | 
+
+*If you would like to access `harbor`, you need to manully set `registry.k8s.cloud` as `159.89.244.41`.
